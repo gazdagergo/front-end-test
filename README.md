@@ -1,9 +1,10 @@
 # Front End Test
-An take home test for Front-end Developers.
+A take home test for Front End Developers.
 
 ## Instructions
 + Clone this repo
 + Complete this exercise and submit either a zip of the solution or a link to a new repo
++ Create a small webapp with HTML and JavaScript / TypeScript
 + All choices of libraries, frameworks, etc. are up to you. 
 
 ## Requirements
